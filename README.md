@@ -5,3 +5,4 @@ Our app uses the Breez SDK to accept payments over the Bitcoin Lightning Network
 ## How can customers pay with Cash App while the store receives USDT?
 
 Our app allows customers to pay using Cash App through Lightning payments. Using the Breez SDK's Lightning payment and swap functionality, the payment can be converted into USDT for the store. This makes checkout simple for customers while allowing merchants to receive USDT.
+https://breez-pay-flow.base44.app
